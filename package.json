@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Abuwabu/stream-adventure#readme",
   "dependencies": {
+    "concat-stream": "^1.5.1",
     "split": "^1.0.0",
     "through2": "^2.0.1"
   }
